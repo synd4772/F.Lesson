@@ -52,9 +52,9 @@
 
 #7 ÜL
 #for i in range(5)
-   #numbrit = int(input("Sisestage numbrit: "))
-   #sum += numbrit
-   #print("The average is:", sum / 5)
+    #numbrit = int(input("Sisestage numbrit: "))
+    #sum += numbrit
+    #print("The average is:", sum / 5)
 
 
 
