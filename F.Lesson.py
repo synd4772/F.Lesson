@@ -32,5 +32,49 @@
 
 
 #4 ÜL
-puu_ümbermõõt = int(input("Milline on puu ümbermõõt?"))
-print("puu läbimõõt on võrdne", 2 * puu_ümbermõõt)
+#puu_ümbermõõt = int(input("Milline on puu ümbermõõt?"))
+#print("puu läbimõõt on võrdne", 2 * puu_ümbermõõt)
+
+
+
+#5 ÜL
+#N = float(input("Sisestage ristküliku pikkus N meetrites: "))
+#M = float(input("Sisestage ristküliku laius M meetrites: "))
+#diagonaali_pikkus = (N ** 2 + M ** 2) ** 0.5
+#print("Ristküliku diagonaali pikkus on:", diagonaali_pikkus , "meetrit")
+
+
+
+#6 ÜL
+# kiirus = teepikkus / aeg
+
+
+
+#7 ÜL
+#for i in range(5)
+   #numbrit = int(input("Sisestage numbrit: "))
+   #sum += numbrit
+   #print("The average is:", sum / 5)
+
+
+
+#8 ÜL
+#print(@..@\n   (----)\n  ( \__/ )\n^^ "" ^^)
+
+
+
+#9 ÜL
+#a = float(input("Sisestage numbrit: "))
+#b = float(input("Sisestage numbrit: "))
+#c = float(input("Sisestage numbrit: "))
+#P = a + b + c
+#print(P)
+
+
+
+#10 ÜL
+#hinnang = 12.90
+#jootraha_protsent = 10
+#kokku = hinnang + (hinnang * (jootraha_protsent / 100))
+#igaüks_makseb = kokku / 2
+#print("Igaüks peab maksma:", igaüks_makseb, "eurot")
