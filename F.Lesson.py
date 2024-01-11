@@ -55,7 +55,7 @@
     #numbrit = int(input("Sisestage numbrit: "))
     #sum =+ numbrit
 
-#print("The average is:", sum / 5)
+#print("Keskmine on:", sum / 5)
 
 
 
