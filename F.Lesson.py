@@ -26,7 +26,7 @@
 #kommid = 500
 #print(kommid)
 #mitu_kommid_võtta = int(input("Mitu kommi sa tahad ära võtta?"))
-#kommid -= mitu_kommid_võtta
+#kommid =- mitu_kommid_võtta
 #print(kommid)
  
 
