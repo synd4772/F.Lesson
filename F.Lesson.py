@@ -36,7 +36,7 @@
 #print("puu läbimõõt on võrdne", 2 * puu_ümbermõõt)
 
 
-
+   
 #5 ÜL
 #N = float(input("Sisestage ristküliku pikkus N meetrites: "))
 #M = float(input("Sisestage ristküliku laius M meetrites: "))
@@ -51,15 +51,16 @@
 
 
 #7 ÜL
-#for i in range(5)
+#for i in range(5):        
     #numbrit = int(input("Sisestage numbrit: "))
-    #sum += numbrit
-    #print("The average is:", sum / 5)
+    #sum =+ numbrit
+
+#print("The average is:", sum / 5)
 
 
 
 #8 ÜL
-#print(@..@\n   (----)\n  ( \__/ )\n^^ "" ^^)
+#print('    @..@\n   (----)\n  ( \__/ )\n  ^^ "" ^^')
 
 
 
