@@ -141,11 +141,11 @@ from random import *
     #numbrit4 = int(input("Sisestage numbrit: "))
     #numbrit5 = int(input("Sisestage numbrit: "))
 
-    #sum = numbrit1 + numbrit2 + numbrit3 + numbrit4 + numbrit5 + 
+    #sum = numbrit1 + numbrit2 + numbrit3 + numbrit4 + numbrit5 
+    #print("Keskmine on:", sum / 5)
 #except:
 #   print("Viga andmetüübiga")
-#finally:
-#   print("Keskmine on:", sum / 5)
+#   
 
 #-----------------------------------------------------:
 
